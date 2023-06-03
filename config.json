@@ -1,0 +1,18 @@
+{
+  "port": 4004,
+  "ngrok": {
+    "auth_token": ""
+  },
+  "twilio": {
+    "account_sid": "",
+    "auth_token": "",
+    "twiml_app_sid": ""
+  },
+  "updates": {
+    "friendly_name": "",
+    "voice_url": "",
+    "status_callback": "",
+    "sms_url": "",
+    "sms_status_callback": ""
+  }
+}
